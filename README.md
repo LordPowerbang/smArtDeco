@@ -1,7 +1,7 @@
 # smArtDeco
 Generative art made with javascript based on TiledLines by Tim Holman
 
-Free art for everyone forever. 
+Refresh page for new pictures. Right click and save if you like it because you'll never see it again(maybe). Free art for everyone forever. 
 
 Enjoy these examples.
 
